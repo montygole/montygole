@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @montygole
+- 👋 Hi, I’m @montygole, I'm about to start my MSc, studying CS in fall 2022
 - 👀 I’m interested in low level computing
 - 🌱 I’m currently learning sockets in C and alot of Go!
-- 💞️ I’m looking to collaborate on anything, seriously lol
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: montygole@gmail.com
 
 <!---
