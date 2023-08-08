@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @montygole, I'm about to start my MSc, studying CS in fall 2022
-- 👀 I’m interested in low level computing
-- 🌱 I’m currently learning sockets in C and alot of Go!
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m @montygole I am a CS Graduate Student at Toronto Metropolitan Univeristy
+- 👀 I’m interested in Data Science, Statistics, Natural Language Processing, and LLMs
 - 📫 How to reach me: montygole@gmail.com
 
 <!---
